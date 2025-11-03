@@ -1,0 +1,14 @@
+declare module '*.css';
+declare module '@/components/ui/button';
+declare module '@/components/ui/input';
+declare module '@/components/ui/label'
+declare module '@/components/ui/alert';
+declare module '@/lib/api'
+declare module '@/lib/auth';
+declare module 'lucide-react';
+declare module 'react';
+declare module 'next';
+declare module '@/components/ui/card'
+declare module '@/components/ui/select'
+declare module '@/components/ui/textarea'
+declare module '@/components/ui/tabs'
