@@ -64,7 +64,7 @@ React 18 + TypeScript
 
 Tailwind CSS for modern responsive design
 
-shadcn/ui for pre-built components
+shadcn/ui
 
 Lucide-react for icons
 
